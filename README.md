@@ -6,14 +6,14 @@
 - Passionate about PLC programming, CAD design, and additive manufacturing
 
 ## 🔧 Technical Skills
-- **CAD/CAM:** SolidWorks, AutoCAD, Fusion 360
+- **CAD/CAM:** SolidWorks, AutoCAD, Inventor
 - **Automation:** PLC Programming (Ladder Logic), SCADA
 - **Manufacturing:** 3D Printing (FDM, SLA, Metal AM), CNC
-- **Programming:** [Add languages you know: Python, MATLAB, etc.]
+- **Programming:** [Python, MATLAB, etc.]
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/siddhesh-jagtap](your-actual-link)
-- Email: siddhesh.jagtap@gmail.com
+- LinkedIn:(https://www.linkedin.com/in/jagtap-siddhesh/)
+- Email: siddhesh.jagtap133@gmail.com
 - Location: Berlin, Germany
 
 ## 🌱 Currently Learning
